@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutechSDK", "SolutechSDK\SolutechSDK.csproj", "{154B30B9-944F-4857-A19A-492CB7AAC398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutechSDK.Tests", "SolutechSDK.Tests\SolutechSDK.Tests.csproj", "{1FAFA70A-D138-494E-B971-C1C445B5B631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154B30B9-944F-4857-A19A-492CB7AAC398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154B30B9-944F-4857-A19A-492CB7AAC398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154B30B9-944F-4857-A19A-492CB7AAC398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154B30B9-944F-4857-A19A-492CB7AAC398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAFA70A-D138-494E-B971-C1C445B5B631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAFA70A-D138-494E-B971-C1C445B5B631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAFA70A-D138-494E-B971-C1C445B5B631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAFA70A-D138-494E-B971-C1C445B5B631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A05B9F-5E97-44BD-BC42-3AC1AACC1B3F}
+	EndGlobalSection
+EndGlobal
