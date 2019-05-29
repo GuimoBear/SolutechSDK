@@ -10,11 +10,11 @@ namespace SolutechSDK.Tests
             var config = new APIConfig("guigui2004@gmail.com", "lkfjkldsfjklskljdsl", "00001");
             var message = new SendMessageRequest(config)
             {
-                IdMessage = "fdklhsjdfhjk",
+                IdMessage = "000000001",
                 Mensagem = "Lorem ipsun",
                 Midia = Enums.TipoMidia.Texto,
                 UsaEmoji = Enums.UsaEmoji.Nao,
-                Whatsapp = "dfkçjsdkfjkjsdlhflds"
+                Whatsapp = "84996251792"
             };
             var response = message.Send();
         }
